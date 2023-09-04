@@ -27,7 +27,7 @@ python snake.py
 Use the arrow keys (Up, Down, Left, Right) to guide the snake. Aim to eat the food pieces while avoiding collisions with the screen edges and the snake's body.
 
 ## Screenshots and Visuals
-[Add screenshots or GIFs showcasing gameplay here. This enriches the README and provides a visual representation of the game.]
+![Game play](image.png)
 
 ## Dependencies
 The game requires the `pygame` library.
